@@ -1,4 +1,6 @@
 GCD
+
+
 Let us consider the simple algorithm using repeated substraction.
 * We identify the functional blocks required in data path,and the corresponding control signals.
 * Then we design the FSM to implement the GCD computationalgorithm using the data path.
