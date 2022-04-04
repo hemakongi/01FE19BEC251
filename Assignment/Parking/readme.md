@@ -1,6 +1,7 @@
 Parking System
 
-here, sensor_entrance(to detect the vehicle coming in)
+Here, sensor_entrance(to detect the vehicle coming in)
+
 sensor_exit(to detect the vehicle going out)
 
 Basically there are 2 sensors which are placed one at the entrance and another at the exit.when the vehicle is detected by the sensor the password is set and open the gate.
